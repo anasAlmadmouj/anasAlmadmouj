@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently developing my skills in **Clean Architecture**.
 
-- 👨‍💻 All of my projects are available at [yourportfolio.com](https://yourportfolio.com)
-
 - 💬 Ask me about **Flutter, Firebase, Clean Architecture, BLoC**
 
 - 📫 How to reach me **almadmouj@gmail.com**
